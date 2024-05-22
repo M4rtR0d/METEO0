@@ -1,2 +1,2 @@
 # METEO0
-Weather project
+Django current and forecast Weather project - api Openweather
